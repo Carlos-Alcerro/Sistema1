@@ -1,0 +1,4 @@
+# Ejemplo de archivo .gitignore
+bin/
+obj/
+.vs/
