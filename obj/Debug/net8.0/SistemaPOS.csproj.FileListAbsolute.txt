@@ -73,3 +73,4 @@ C:\Users\IDpcdell\Desktop\.NET\SistemaPOS\bin\Debug\net8.0\NegocioCapa.pdb
 C:\Users\IDpcdell\Desktop\.NET\SistemaPOS\bin\Debug\net8.0\DatosCapa.pdb
 C:\Users\IDpcdell\Desktop\.NET\SistemaPOS\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\IDpcdell\Desktop\.NET\SistemaPOS\obj\Debug\net8.0\SistemaPOS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IDpcdell\Desktop\.NET\SistemaPOS\obj\Debug\net8.0\SistemaPOS.sourcelink.json
